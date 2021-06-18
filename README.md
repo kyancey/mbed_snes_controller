@@ -2,6 +2,7 @@
 # mbed_snes_controller
 
 Functions that allow an mbed compatible microcontroller to emulate an SNES controller.
+With this code, the player on an SNES console could be controlled by the microcontroller.
 
 
 ## Authors
