@@ -31,7 +31,8 @@ You will have to alter the pin assignments at the top of program
 to match with how your wires are configured. The SNES controller
 wire pinout is available [here](https://pinoutguide.com/Game/snescontroller_pinout.shtml).
 Only three wires actually carry data so only three pins are needed.
-The other two relevant wires are VCC and GND.
+The other two relevant wires are VCC and GND. The remaining two wires are not connected to
+anything. They are dummy wires that can be safely ignored.
 
 #### Voltage Requirements
 **Note**: Remember that the microcontroller is acting
