@@ -82,3 +82,6 @@ rename it to whatever you desire.
 The code is provided as-is. However, if you have any questions, you
 can contact me at kyancey@outlook.com. The code can easily be adapted
 to work on non-mbed microcontroller such as the arduino or the raspberry pi.
+This code can also easily be altered to emulate an NES controller. The only
+difference between the NES and SNES controller is the [number of button signals
+sent and the order they are sent](https://tresi.github.io/nes/).
